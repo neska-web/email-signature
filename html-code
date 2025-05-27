@@ -1,56 +1,54 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>Company name</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-</head>
+  </head>
   <body style="margin:0;padding:0;">
-      <p style="font-size:14px;color: #221c1c;font-weight:500;font-family:'Montserrat', sans-serif;">С уважением,</p>
-      <table border="0" width="560px" style="background-color:#F1EFEE;">
-        <tr>
-            <td align="left">
-      <table border="0" width="560px" style="padding:5px 0 0 0; margin:0">
-        <tr>
-          <td rowspan="3" style="padding:0 0 0 5px">
-            <img height="150px" width="150px" alt="profile" src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/New%20photos/Nesk.png?updatedAt=1741601299349"></img>
+    <p style="font-size:14px;color: #221c1c;font-weight:500;font-family:'Montserrat', sans-serif;">С уважением,</p>
+    <table border="0" width="560px" style="background-color:#F1EFEE;">
+      <tr>
+        <td align="left">
+          <table border="0" width="560px" style="padding:5px 0 0 0; margin:0">
+            <tr>
+              <td rowspan="3" style="padding:0 0 0 5px">
+                <img height="150px" width="150px" alt="profile" src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/New%20photos/Nesk.png?updatedAt=1741601299349"></img>
+              </td>
+              <td rowspan="3" style="border-right:2px solid #2B2B30;padding:0px 10px 0px 0px;margin:0px 10px 0 0px"></td>
+              <td rowspan="4" style="padding:0px 10px 0px 0px;margin:0px 10px 0 0px"></td>
+              <td width="560px">
+                <h1 style="margin:0;font-size:20px;color: #221c1c;font-weight: 500;font-family: 'Montserrat', sans-serif;line-height: 13px;width: 244px;padding:0 0 8px;">Name Surname</h1>
+                <h2 style="margin:0;font-size:12px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;line-height: 13px; ">Position</h2>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:7px 0 5px 0; margin:0">
+                <a href="https://api.whatsapp.com/send/?phone=79131700780&text&type=phone_number&app_absent=0" style="text-decoration:none;margin-right:18px;"></a>
+                  <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/WA1.jpg?updatedAt=1741599835558" height="30px" alt="whatsapp" style="border:0; border-radius: 50%"></img>
+                <a href="https://t.me/md_operator" style="text-decoration: none;margin-right: 18px;"></a>
+                  <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/TG1.jpg?updatedAt=1741599835546" height="30px" alt="telegram" style="border:0;border-radius: 50%"></img>
+                <a href="https://vk.com/md_insight" style="text-decoration: none;margin-right: 18px;"></a>
+                  <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/VK1.jpg?updatedAt=1741599835532" height="30px" alt="vkontakte" style="border:0;border-radius: 50%"></img>
+                <a href="https://www.youtube.com/channel/UCCFo7Lh6vvrbA-4X61uYzwQ" style="text-decoration: none;margin-right: 18px;"></a>
+                <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/youtube1.jpg?updatedAt=1741600774353" height="30px" alt="youtube" style="border:0;border-radius: 50%"></img>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p style="margin:0;font-size:11px;line-height:18px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;width: 353px;padding:0 0 4px;">Моб: +7 (999) 999-99-99 (доб. 404)</p>
+                <p style="margin:0;font-size:11px;line-height:15px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;padding:0 0 4px;">Telegram: <a href="https://t.me/someone" style="text-decoration: none;color:#0000EE;">@tgname</a></p>
+                <p style="margin:0;font-size:11px;line-height:15px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;padding:0 0 4px;">Email: <a href="mailto:mail.com" style="text-decoration: none;color:#0000EE;">mail.com</a>&nbsp;</p>
+                <p style="margin:0;font-size:11px;line-height:15px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;padding:0 0 4px;"> Сайт: <a href="https://www.sitename.com" style="text-decoration: none;color:#0000EE;">www.sitename.com</a></p>
+              </td>
+              <tr>
+                <td></td>
+                <td></td>
+                <td><img height="25px" src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/reverse%20logo8TRY.png?updatedAt=1741601889660"></img></td>
+              </tr>
+            </tr>
+          </table>
         </td>
-          <td rowspan="3" style="border-right:2px solid #2B2B30;padding:0px 10px 0px 0px;margin:0px 10px 0 0px"></td>
-          <td rowspan="4" style="padding:0px 10px 0px 0px;margin:0px 10px 0 0px"></td>
-    <td width="560px">
-     <h1 style="margin:0;font-size:20px;color: #221c1c;font-weight: 500;font-family: 'Montserrat', sans-serif;line-height: 13px;width: 244px;padding:0 0 8px;">Name Surname</h1>
-      <h2 style="margin:0;font-size:12px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;line-height: 13px; ">Position</h2>
-</td>
-  </tr>
-  <tr>
-    <td style="padding:7px 0 5px 0; margin:0">
-       <a href="https://api.whatsapp.com/send/?phone=79131700780&text&type=phone_number&app_absent=0" style="text-decoration:none;margin-right:18px;">
-         <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/WA1.jpg?updatedAt=1741599835558" height="30px" alt="whatsapp" style="border:0; border-radius: 50%">
-         </a>
-       <a href="https://t.me/md_operator" style="text-decoration: none;margin-right: 18px;">
-         <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/TG1.jpg?updatedAt=1741599835546" height="30px" alt="telegram" style="border:0;border-radius: 50%">
-         </a>
-       <a href="https://vk.com/md_insight" style="text-decoration: none;margin-right: 18px;">
-         <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/VK1.jpg?updatedAt=1741599835532" height="30px" alt="vkontakte" style="border:0;border-radius: 50%">
-         </a>
-       <a href="https://www.youtube.com/channel/UCCFo7Lh6vvrbA-4X61uYzwQ" style="text-decoration: none;margin-right: 18px;">
-         <img src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/youtube1.jpg?updatedAt=1741600774353" height="30px" alt="youtube" style="border:0;border-radius: 50%">
-         </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p style="margin:0;font-size:11px;line-height:18px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;width: 353px;padding:0 0 4px;">Моб: +7 (999) 999-99-99 (доб. 404)</p>
-      <p style="margin:0;font-size:11px;line-height:15px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;padding:0 0 4px;">Telegram: <a href="https://t.me/someone" style="text-decoration: none;color:#0000EE;">@tgname</a></p>
-<p style="margin:0;font-size:11px;line-height:15px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;padding:0 0 4px;">Email: <a href="mailto:mail.com" style="text-decoration: none;color:#0000EE;">mail.com</a>&nbsp;</p>
-      <p style="margin:0;font-size:11px;line-height:15px;color: #221c1c;font-weight: 400;font-family: 'Montserrat', sans-serif;padding:0 0 4px;"> Сайт: <a href="https://www.sitename.com" style="text-decoration: none;color:#0000EE;">www.sitename.com</a></p>
-    </td>
-    <tr><td></td>
-      <td></td>
-      <td><img height="25px" src="https://ik.imagekit.io/aacwds32x/MD%20Signatures/reverse%20logo8TRY.png?updatedAt=1741601889660"></img></td>
-    </tr>
-    </tr>
-  </table>
-</tr>
-</td>
-</table>
-</body>
-</html>
+      </tr>
+    </table>
+  </body>
+  </html>
